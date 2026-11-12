@@ -1,1 +1,12 @@
 .env
+
+# maxfiy va keraksiz fayllar
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite3
+instance/
+.coverage
+.DS_Store
